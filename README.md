@@ -4,8 +4,8 @@
 
 ### Programming languages (frameworks) and tools
 
-- PHP, JavaScript, C++
-- Node.JS, React.js, Laravel
+- Java, JavaScript, C++
+- SpringBoot, Node.JS, React.js, Laravel
 - Firestore, MongoDB, MySQL
 - Docker, AWS, GCP
 
