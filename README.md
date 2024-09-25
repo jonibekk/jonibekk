@@ -4,10 +4,12 @@
 
 ### Programming languages (frameworks) and tools
 
-- Java, JavaScript, C++
-- SpringBoot, Node.JS, React.js, Laravel
-- Firestore, MongoDB, MySQL
-- Docker, AWS, GCP
+- Java, JavaScript/TypeScript, C++
+- SpringBoot, Node.JS, Next.js
+- MongoDB, MySQL, Postgres
+- Docker, GCP, Firebase, Kafka
+
+### 🚀 Founder of [SalarySnap](https://www.salarysnap.tech/) 🚀
 
 --------------------------------------------------------------------------
 ### Watch me code and enjoy:
