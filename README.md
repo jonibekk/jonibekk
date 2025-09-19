@@ -4,10 +4,10 @@
 
 ### Programming languages (frameworks) and tools
 
-- Java, JavaScript/TypeScript, C++
+- Java, JavaScript/TypeScript, Python
 - SpringBoot, Node.JS, Next.js
 - MongoDB, MySQL, Postgres
-- Docker, GCP, Firebase, Kafka
+- Docker, AWS, Asure, Firebase, Kafka
 
 # 🚀 Projects Built
 
