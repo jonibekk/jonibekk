@@ -9,7 +9,20 @@
 - MongoDB, MySQL, Postgres
 - Docker, GCP, Firebase, Kafka
 
-### 🚀 Founder of [SalarySnap](https://www.salarysnap.tech/) 🚀
+# 🚀 Projects Built
+
+## Featured Applications
+
+### 💰 [SalarySnap](https://www.salarysnap.tech/)
+> *Smart salary insights at your fingertips*
+
+---
+
+### 💬 [SayLess](https://say-less.fyi/)
+> *Communication made simple*
+
+*Built with passion and code* ✨
+
 
 --------------------------------------------------------------------------
 ![LeetCode Stats](https://leetcode.card.workers.dev/nrbvjonibek?theme=dark&font=baloo&extension=null)
